@@ -1,0 +1,23 @@
+{
+  "name": "profile_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "survey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nastasidavydov/profile_generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nastasidavydov/profile_generator/issues"
+  },
+  "homepage": "https://github.com/nastasidavydov/profile_generator#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
